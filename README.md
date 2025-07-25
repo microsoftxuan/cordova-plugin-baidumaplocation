@@ -40,6 +40,12 @@ cordova plugin add https://github.com/microsoftxuan/cordova-plugin-baidumaplocat
 ```
 
 #### 三，使用方法
+```java
+// java文件需要手动替换AKSK
+public static String AK = "替换Ak";
+
+public static String SK = "替换sk";
+```
 
 ```javascript
 // angular+ionic+cordova创建的项目
